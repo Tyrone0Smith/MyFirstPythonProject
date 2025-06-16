@@ -1,0 +1,11 @@
+{
+    "name": "Alice",
+    "age": 20,
+    "grade": "A",
+    "subjects": [
+        "Math",
+        "Science",
+        "English"
+    ],
+    "attendance": 95
+}
